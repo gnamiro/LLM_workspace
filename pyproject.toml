@@ -1,0 +1,16 @@
+[project]
+name = "llm-workspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource>=0.0.5",
+    "jupyter>=1.1.1",
+    "langchain>=1.3.9",
+    "langchain-openai>=1.3.2",
+    "minsearch>=0.1.0",
+    "openai>=2.41.1",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
