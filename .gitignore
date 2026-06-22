@@ -16,3 +16,5 @@ logs/
 *.sqlite3
 # Ignore environment variable files
 .env
+
+models/
