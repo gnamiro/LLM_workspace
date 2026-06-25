@@ -16,5 +16,7 @@ logs/
 *.sqlite3
 # Ignore environment variable files
 .env
+.env_encoded
 
 models/
+chroma_db/
